@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Tassochaves&color=006bed)
+![](https://komarev.com/ghpvc/?username=Tassochaves&color=001547)
 
 ## Sobre mim
 
@@ -23,9 +23,12 @@
 *
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**Utilidades**
 
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+<a href="https://github.com/Tassochaves" title="Perfil do Tasso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TassoChaves&layout=donut" />
+</a>
+
+##
 
 **DevOps**
 
@@ -40,8 +43,9 @@
 <br/>
 
 <a href="https://github.com/Tassochaves" title="Perfil do Tasso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tassochaves&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tassochaves&theme=algolia&show_icons=true" />
 </a>
+
 
 ## Onde me encontrar
 
