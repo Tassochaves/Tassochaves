@@ -5,7 +5,7 @@
 - 🎓 Graduado em Engenharia da Computação.
 - 🎓 Pós-graduação Lato Sensu - em Análise e Desenvolvimento de Programas
 - 💼 Trabalhando como Analista de Suporte Técnico na OAB - Seccional Maranhão.
-- 🌱 Aprendendo mais sobre IA, Redes de Computadores e Desenvolvimento Web.
+- 🌱 Aprendendo mais sobre Análise de Dados, Redes de Computadores e Desenvolvimento Web.
 - [Github antigo](https://github.com/Tasso-chaves)
 
 ## Minhas Skills
