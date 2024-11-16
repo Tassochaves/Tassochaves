@@ -23,6 +23,8 @@
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=C3002F)
 *
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![SQL](https://img.shields.io/badge/-SQL-0B75C8?style=flat&logo=sql)
+![POWER BI](https://img.shields.io/badge/-POWER_BI-EFC42F?style=flat&logo=powerbi)
 
 
 <a href="https://github.com/Tassochaves" title="Perfil do Tasso">
