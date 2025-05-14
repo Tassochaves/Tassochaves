@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Tassochaves&color=001547)
 
 ## Sobre mim
-
+- 🧠​ Apaixonado por Tecnologia, Musica e Esportes.
 - 🎓 Graduado em Engenharia da Computação.
 - 🎓 Pós-graduação Lato Sensu - em Análise e Desenvolvimento de Programas
 - 💼 Trabalhando como Analista de Suporte Técnico na OAB - Seccional Maranhão.
