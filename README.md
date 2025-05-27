@@ -3,10 +3,10 @@
 ## Sobre mim
 - 🧠​ Apaixonado por Tecnologia, Musica e Esportes.
 - 🎓 Graduado em Engenharia da Computação.
-- 🎓 Pós-graduação Lato Sensu - em Análise e Desenvolvimento de Programas
-- 💼 Trabalhando como Analista de Suporte Técnico na OAB - Seccional Maranhão.
+- 🎓 Pós-graduação Lato Sensu - em Análise e Desenvolvimento de Programas.
+- 💼 Trabalhando como Analista de Suporte Técnico.
 - 🌱 Aprendendo mais sobre Análise de Dados, Redes de Computadores e Desenvolvimento Web.
-- [Github antigo](https://github.com/Tasso-chaves)
+- 😕 [GITHUB ANTIGO](https://github.com/Tasso-chaves)
 
 ## Minhas Skills
 
@@ -43,6 +43,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker&logoColor=1D63ED)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes&logoColor=1D63ED)
 
 **Ferramentas de desenvolvimento**
 
