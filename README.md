@@ -4,7 +4,7 @@
 - 🧠​ Apaixonado por Tecnologia, Musica e Esportes.
 - 🎓 Graduado em Engenharia da Computação.
 - 🎓 Pós-graduação Lato Sensu - em Análise e Desenvolvimento de Programas.
-- 👨‍💻 Trabalhando como Analista de Suporte Técnico.
+- 👨‍💻 Trabalhando como Assistente Desenvolvedor Senio.
 - 📊 Aprendendo mais sobre Análise de Dados, Redes de Computadores e Desenvolvimento Web.
 - 😕 [GITHUB ANTIGO](https://github.com/Tasso-chaves)
 
