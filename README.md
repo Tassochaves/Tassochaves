@@ -1,6 +1,5 @@
-![](https://komarev.com/ghpvc/?username=Tassochaves&color=001547)
-
 ## Sobre mim
+
 - 🧠​ Apaixonado por Tecnologia, Musica e Esportes.
 - 🎓 Graduado em Engenharia da Computação.
 - 🎓 Pós-graduação Lato Sensu - em Análise e Desenvolvimento de Programas.
@@ -15,18 +14,16 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring&logoColor=6CB52D)
 ![NestJS](https://img.shields.io/badge/-Nestjs-333333?style=flat&logo=Nestjs&logoColor=EA2854)
-*
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss&logoColor=1572B6)
-![BootStrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap&logoColor=8411FA)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=C3002F)
-*
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![SQL](https://img.shields.io/badge/-SQL-0B75C8?style=flat&logo=sql)
-![POWER BI](https://img.shields.io/badge/-POWER_BI-EFC42F?style=flat&logo=powerbi)
 
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss&logoColor=1572B6)
+  ![BootStrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap&logoColor=8411FA)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=C3002F)
+- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![SQL](https://img.shields.io/badge/-SQL-0B75C8?style=flat&logo=sql)
+  ![POWER BI](https://img.shields.io/badge/-POWER_BI-EFC42F?style=flat&logo=powerbi)
 
 <a href="https://github.com/Tassochaves" title="Perfil do Tasso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TassoChaves&layout=donut" />
