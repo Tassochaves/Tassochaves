@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Word!+:);&font=Fira%20Code&size=28&color=ffffff&cursorColor=3498db&center=true&vCenter=true&width=550&height=70&pause=2000" alt="Olá, :)" />
+</div>
+
 ## Sobre mim
 
 - 🧠​ Apaixonado por Tecnologia, Musica e Esportes.
@@ -30,10 +34,12 @@
 </a>
 
 <a href="https://github.com/Tassochaves" title="Perfil do Tasso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tassochaves&theme=algolia&show_icons=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TassoChaves&theme=dark" />
 </a>
-
-##
+<hr>
+<a href="https://github.com/Tassochaves" title="Perfil do Tasso">
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Tassochaves" />
+</a>
 
 **DevOps**
 
