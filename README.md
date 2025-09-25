@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Word!+:);&font=Fira%20Code&size=28&color=ffffff&cursorColor=3498db&center=true&vCenter=true&width=550&height=70&pause=2000" alt="Olá, :)" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Word!+:);&font=Fira%20Code&size=28&color=ffffff&cursorColor=3498db&center=true&vCenter=true&width=550&height=70&pause=3000" alt="Olá, :)" />
 </div>
 
 ## Sobre mim
