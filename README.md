@@ -25,6 +25,7 @@
 ![BootStrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap&logoColor=8411FA)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=C3002F) |
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Postgres](https://img.shields.io/badge/postgresql-333333?style=flat&logo=postgresql)
 ![SQL](https://img.shields.io/badge/-SQL-0B75C8?style=flat&logo=sql)
 ![POWER BI](https://img.shields.io/badge/-POWER_BI-EFC42F?style=flat&logo=powerbi)
 
@@ -32,10 +33,6 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Tassochaves&theme=transparent&hide_border=true&locale=pt_BR&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
 ## 
-
-<a href="https://github.com/Tassochaves" title="Perfil do Tasso">
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Tassochaves" />
-</a>
 
 **DevOps**
 
