@@ -7,8 +7,8 @@
 - 🧠​ Apaixonado por Tecnologia, Musica e Esportes.
 - 🎓 Graduado em Engenharia da Computação.
 - 🎓 Pós-graduação Lato Sensu - em Análise e Desenvolvimento de Programas.
-- 👨‍💻 Desenvolvedor Junior.
-- 📊 Aprendendo mais sobre Análise de Dados, Redes de Computadores e Desenvolvimento Web.
+- 👨‍💻 Desenvolvedor Full Stack.
+- 📊 Aprendendo mais sobre Desenvolvimento Web, Análise de Dados e Redes de Computadores.
 - 😕 [GITHUB ANTIGO](https://github.com/Tasso-chaves)
 
 ## Minhas Skills
@@ -29,8 +29,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-0B75C8?style=flat&logo=sql)
 ![POWER BI](https://img.shields.io/badge/-POWER_BI-EFC42F?style=flat&logo=powerbi)
 
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Tassochaves&theme=transparent&hide_border=true&locale=pt_BR&hide_longest_streak=true" alt="GitHub Streak" /></a>
+## Estatísticas de sequência
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tassochaves&theme=telegram&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 
 ## 
 
